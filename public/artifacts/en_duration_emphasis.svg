@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="814" viewBox="0 0 1240 814">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<style>text{font-family:Inter,Arial,sans-serif}.h{font-size:30px;font-weight:700;fill:#252525}.k{font-size:13px;font-weight:700;letter-spacing:3px;fill:#8a8882}.s{font-size:18px;fill:#595751}.tiny{font-size:12px;fill:#77746e}.unit{font-size:15px;fill:#252525;font-weight:600}.token{font-size:14px;fill:#2a2926}</style>
+<text x="40" y="42" class="k">TOKENS WITHOUT LETTERS · VISUAL PROTOTYPE</text>
+<text x="40" y="90" class="h">English duration emphasis</text>
+<text x="40" y="126" class="s">Input: omg this took waaaay too long</text>
+<text x="40" y="188" class="k">01 · SURFACE / LINEAR BASELINE</text>
+<rect x="40" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="56.0" y="234" text-anchor="middle" class="token">o</text>
+<rect x="80" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="96.0" y="234" text-anchor="middle" class="token">m</text>
+<rect x="120" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="136.0" y="234" text-anchor="middle" class="token">g</text>
+<rect x="176" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="192.0" y="234" text-anchor="middle" class="token">t</text>
+<rect x="216" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="232.0" y="234" text-anchor="middle" class="token">h</text>
+<rect x="256" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="272.0" y="234" text-anchor="middle" class="token">i</text>
+<rect x="296" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="312.0" y="234" text-anchor="middle" class="token">s</text>
+<rect x="352" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="368.0" y="234" text-anchor="middle" class="token">t</text>
+<rect x="392" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="408.0" y="234" text-anchor="middle" class="token">o</text>
+<rect x="432" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="448.0" y="234" text-anchor="middle" class="token">o</text>
+<rect x="472" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="488.0" y="234" text-anchor="middle" class="token">k</text>
+<rect x="528" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="544.0" y="234" text-anchor="middle" class="token">w</text>
+<rect x="568" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="584.0" y="234" text-anchor="middle" class="token">a</text>
+<rect x="608" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="624.0" y="234" text-anchor="middle" class="token">a</text>
+<rect x="648" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="664.0" y="234" text-anchor="middle" class="token">a</text>
+<rect x="688" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="704.0" y="234" text-anchor="middle" class="token">a</text>
+<rect x="728" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="744.0" y="234" text-anchor="middle" class="token">y</text>
+<rect x="784" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="800.0" y="234" text-anchor="middle" class="token">t</text>
+<rect x="824" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="840.0" y="234" text-anchor="middle" class="token">o</text>
+<rect x="864" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="880.0" y="234" text-anchor="middle" class="token">o</text>
+<rect x="920" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="936.0" y="234" text-anchor="middle" class="token">l</text>
+<rect x="960" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="976.0" y="234" text-anchor="middle" class="token">o</text>
+<rect x="1000" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="1016.0" y="234" text-anchor="middle" class="token">n</text>
+<rect x="1040" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="1056.0" y="234" text-anchor="middle" class="token">g</text>
+<text x="40" y="304" class="k">02 · SPATIAL BLOCK LAYOUT</text>
+<text x="40" y="326" class="tiny">Each block uses the same 3×3 canvas. English fills it with letters; Korean fills it with jamo, the alphabet-like pieces inside Hangul syllables.</text>
+<rect x="40" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="40" y="350" width="30" height="30" fill="#4fc0e2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="55.0" y="371" text-anchor="middle" class="unit">o</text>
+<rect x="70" y="350" width="30" height="30" fill="#4fe2c0" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="85.0" y="371" text-anchor="middle" class="unit">m</text>
+<rect x="100" y="350" width="30" height="30" fill="#a9e24f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="115.0" y="371" text-anchor="middle" class="unit">g</text>
+<rect x="40" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="70" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="100" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="40" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="70" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="100" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="40" y="443" width="90" height="5" rx="2" fill="#2bb8b0"/>
+<text x="40" y="464" class="tiny">omg</text>
+<rect x="169" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="169" y="350" width="30" height="30" fill="#884fe2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="184.0" y="371" text-anchor="middle" class="unit">t</text>
+<rect x="199" y="350" width="30" height="30" fill="#88e24f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="214.0" y="371" text-anchor="middle" class="unit">h</text>
+<rect x="229" y="350" width="30" height="30" fill="#66e24f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="244.0" y="371" text-anchor="middle" class="unit">i</text>
+<rect x="169" y="380" width="30" height="30" fill="#664fe2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="184.0" y="401" text-anchor="middle" class="unit">s</text>
+<rect x="199" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="229" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="169" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="199" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="229" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="169" y="456" class="tiny">this</text>
+<rect x="298" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="298" y="350" width="30" height="30" fill="#884fe2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="313.0" y="371" text-anchor="middle" class="unit">t</text>
+<rect x="328" y="350" width="30" height="30" fill="#4fc0e2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="343.0" y="371" text-anchor="middle" class="unit">o</text>
+<rect x="358" y="350" width="30" height="30" fill="#4fc0e2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="373.0" y="371" text-anchor="middle" class="unit">o</text>
+<rect x="298" y="380" width="30" height="30" fill="#4fe27c" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="313.0" y="401" text-anchor="middle" class="unit">k</text>
+<rect x="328" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="358" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="298" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="328" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="358" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="298" y="456" class="tiny">took</text>
+<rect x="427" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="427" y="350" width="30" height="30" fill="#e24fd7" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="442.0" y="371" text-anchor="middle" class="unit">w</text>
+<rect x="457" y="350" width="30" height="30" fill="#e24f4f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="472.0" y="371" text-anchor="middle" class="unit">a</text>
+<rect x="487" y="350" width="30" height="30" fill="#e24f4f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="502.0" y="371" text-anchor="middle" class="unit">a</text>
+<rect x="427" y="380" width="30" height="30" fill="#e24f4f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="442.0" y="401" text-anchor="middle" class="unit">a</text>
+<rect x="457" y="380" width="30" height="30" fill="#e24f4f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="472.0" y="401" text-anchor="middle" class="unit">a</text>
+<rect x="487" y="380" width="30" height="30" fill="#e24f93" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="502.0" y="401" text-anchor="middle" class="unit">y</text>
+<rect x="427" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="457" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="487" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="427" y="443" width="90" height="5" rx="2" fill="#f17a3d"/>
+<text x="427" y="464" class="tiny">waaaay</text>
+<rect x="556" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="556" y="350" width="30" height="30" fill="#884fe2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="571.0" y="371" text-anchor="middle" class="unit">t</text>
+<rect x="586" y="350" width="30" height="30" fill="#4fc0e2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="601.0" y="371" text-anchor="middle" class="unit">o</text>
+<rect x="616" y="350" width="30" height="30" fill="#4fc0e2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="631.0" y="371" text-anchor="middle" class="unit">o</text>
+<rect x="556" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="586" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="616" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="556" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="586" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="616" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="556" y="456" class="tiny">too</text>
+<rect x="685" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="685" y="350" width="30" height="30" fill="#4fe29e" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="700.0" y="371" text-anchor="middle" class="unit">l</text>
+<rect x="715" y="350" width="30" height="30" fill="#4fc0e2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="730.0" y="371" text-anchor="middle" class="unit">o</text>
+<rect x="745" y="350" width="30" height="30" fill="#4fe2e2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="760.0" y="371" text-anchor="middle" class="unit">n</text>
+<rect x="685" y="380" width="30" height="30" fill="#a9e24f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="700.0" y="401" text-anchor="middle" class="unit">g</text>
+<rect x="715" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="745" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="685" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="715" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="745" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="685" y="456" class="tiny">long</text>
+<text x="40" y="532" class="k">03 · LETTERFORM-REMOVED COLOR VIEW</text>
+<text x="40" y="554" class="tiny">Fill colors replace letterforms. Bottom bars mark chat cues built for colloquial written language: reaction, emphasis, and shorthand.</text>
+<rect x="40.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fc0e2"/>
+<rect x="40.0" y="603.0" width="18.0" height="5" rx="1" fill="#2bb8b0"/>
+<rect x="60.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fe2c0"/>
+<rect x="60.0" y="603.0" width="18.0" height="5" rx="1" fill="#2bb8b0"/>
+<rect x="80.0" y="576.0" width="18.0" height="32" rx="3" fill="#a9e24f"/>
+<rect x="80.0" y="603.0" width="18.0" height="5" rx="1" fill="#2bb8b0"/>
+<rect x="123.0" y="576.0" width="18.0" height="32" rx="3" fill="#884fe2"/>
+<rect x="143.0" y="576.0" width="18.0" height="32" rx="3" fill="#88e24f"/>
+<rect x="163.0" y="576.0" width="18.0" height="32" rx="3" fill="#66e24f"/>
+<rect x="183.0" y="576.0" width="18.0" height="32" rx="3" fill="#664fe2"/>
+<rect x="226.0" y="576.0" width="18.0" height="32" rx="3" fill="#884fe2"/>
+<rect x="246.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fc0e2"/>
+<rect x="266.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fc0e2"/>
+<rect x="286.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fe27c"/>
+<rect x="329.0" y="576.0" width="18.0" height="32" rx="3" fill="#e24fd7"/>
+<rect x="329.0" y="603.0" width="18.0" height="5" rx="1" fill="#f17a3d"/>
+<rect x="349.0" y="576.0" width="18.0" height="32" rx="3" fill="#e24f4f"/>
+<rect x="349.0" y="603.0" width="18.0" height="5" rx="1" fill="#f17a3d"/>
+<rect x="369.0" y="576.0" width="18.0" height="32" rx="3" fill="#e24f4f"/>
+<rect x="369.0" y="603.0" width="18.0" height="5" rx="1" fill="#f17a3d"/>
+<rect x="389.0" y="576.0" width="18.0" height="32" rx="3" fill="#e24f4f"/>
+<rect x="389.0" y="603.0" width="18.0" height="5" rx="1" fill="#f17a3d"/>
+<rect x="409.0" y="576.0" width="18.0" height="32" rx="3" fill="#e24f4f"/>
+<rect x="409.0" y="603.0" width="18.0" height="5" rx="1" fill="#f17a3d"/>
+<rect x="429.0" y="576.0" width="18.0" height="32" rx="3" fill="#e24f93"/>
+<rect x="429.0" y="603.0" width="18.0" height="5" rx="1" fill="#f17a3d"/>
+<rect x="472.0" y="576.0" width="18.0" height="32" rx="3" fill="#884fe2"/>
+<rect x="492.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fc0e2"/>
+<rect x="512.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fc0e2"/>
+<rect x="555.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fe29e"/>
+<rect x="575.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fc0e2"/>
+<rect x="595.0" y="576.0" width="18.0" height="32" rx="3" fill="#4fe2e2"/>
+<rect x="615.0" y="576.0" width="18.0" height="32" rx="3" fill="#a9e24f"/>
+<text x="40" y="650" class="k">04 · TOKEN TAX SKETCH</text>
+<text x="40" y="670" class="tiny">surface chunks = flat visible units; structure groups = 3×3 capacity-based blocks. token tax saved = surface − groups; Δ = groups − surface.</text>
+<rect x="40" y="698" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="58" y="726" class="tiny">surface chunks</text>
+<text x="58" y="756" class="h">24</text>
+<rect x="270" y="698" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="288" y="726" class="tiny">structure groups</text>
+<text x="288" y="756" class="h">6</text>
+<rect x="500" y="698" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="518" y="726" class="tiny">token tax saved</text>
+<text x="518" y="756" class="h">18 (Δ -18)</text>
+<rect x="730" y="698" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="748" y="726" class="tiny">chat cues</text>
+<text x="748" y="756" class="h">2</text>
+</svg>

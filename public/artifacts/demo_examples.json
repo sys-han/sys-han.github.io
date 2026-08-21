@@ -1,0 +1,8480 @@
+[
+  {
+    "input": "아니ㅋㅋㅋㅋ 이거 진짜 너무 웃긴데",
+    "surface_tokens": [
+      {
+        "text": "아",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "니",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "ㅋ",
+        "kind": "surface",
+        "script": "jamo"
+      },
+      {
+        "text": "ㅋ",
+        "kind": "surface",
+        "script": "jamo"
+      },
+      {
+        "text": "ㅋ",
+        "kind": "surface",
+        "script": "jamo"
+      },
+      {
+        "text": "ㅋ",
+        "kind": "surface",
+        "script": "jamo"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "이",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "거",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "진",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "짜",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "너",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "무",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "웃",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "긴",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "데",
+        "kind": "surface",
+        "script": "hangul"
+      }
+    ],
+    "structural_tokens": [
+      {
+        "text": "아",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "아",
+        "count": null,
+        "units": [
+          "ㅇ",
+          "ㅏ"
+        ],
+        "features": {
+          "onset": "ㅇ",
+          "nucleus": "ㅏ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "니",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "니",
+        "count": null,
+        "units": [
+          "ㄴ",
+          "ㅣ"
+        ],
+        "features": {
+          "onset": "ㄴ",
+          "nucleus": "ㅣ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "normalized": "LAUGHTER",
+        "count": 4,
+        "units": [
+          "ㅋ",
+          "ㅋ",
+          "ㅋ",
+          "ㅋ"
+        ],
+        "features": {
+          "is_speech_like": true,
+          "is_repeated": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "이",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "이",
+        "count": null,
+        "units": [
+          "ㅇ",
+          "ㅣ"
+        ],
+        "features": {
+          "onset": "ㅇ",
+          "nucleus": "ㅣ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "거",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "거",
+        "count": null,
+        "units": [
+          "ㄱ",
+          "ㅓ"
+        ],
+        "features": {
+          "onset": "ㄱ",
+          "nucleus": "ㅓ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "진",
+        "count": null,
+        "units": [
+          "ㅈ",
+          "ㅣ",
+          "ㄴ"
+        ],
+        "features": {
+          "onset": "ㅈ",
+          "nucleus": "ㅣ",
+          "coda": "ㄴ",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "짜",
+        "count": null,
+        "units": [
+          "ㅉ",
+          "ㅏ"
+        ],
+        "features": {
+          "onset": "ㅉ",
+          "nucleus": "ㅏ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "너",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "너",
+        "count": null,
+        "units": [
+          "ㄴ",
+          "ㅓ"
+        ],
+        "features": {
+          "onset": "ㄴ",
+          "nucleus": "ㅓ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "무",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "무",
+        "count": null,
+        "units": [
+          "ㅁ",
+          "ㅜ"
+        ],
+        "features": {
+          "onset": "ㅁ",
+          "nucleus": "ㅜ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "웃",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "웃",
+        "count": null,
+        "units": [
+          "ㅇ",
+          "ㅜ",
+          "ㅅ"
+        ],
+        "features": {
+          "onset": "ㅇ",
+          "nucleus": "ㅜ",
+          "coda": "ㅅ",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "긴",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "긴",
+        "count": null,
+        "units": [
+          "ㄱ",
+          "ㅣ",
+          "ㄴ"
+        ],
+        "features": {
+          "onset": "ㄱ",
+          "nucleus": "ㅣ",
+          "coda": "ㄴ",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "데",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "데",
+        "count": null,
+        "units": [
+          "ㄷ",
+          "ㅔ"
+        ],
+        "features": {
+          "onset": "ㄷ",
+          "nucleus": "ㅔ",
+          "coda": "",
+          "syllable_like": true
+        }
+      }
+    ],
+    "spatial_blocks": [
+      {
+        "token_text": "아",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅇ",
+            "ㅏ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76da83",
+            "#76b9da",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "니",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㄴ",
+            "ㅣ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#dac476",
+            "#da9776",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "rows": [
+          [
+            "ㅋ",
+            "ㅋ",
+            "ㅋ"
+          ],
+          [
+            "ㅋ",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76dabf",
+            "#76dabf",
+            "#76dabf"
+          ],
+          [
+            "#76dabf",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#2fbf71"
+      },
+      {
+        "token_text": "이",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅇ",
+            "ㅣ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76da83",
+            "#da9776",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "거",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㄱ",
+            "ㅓ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#daa676",
+            "#767dda",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅈ",
+            "ㅣ",
+            "ㄴ"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76da92",
+            "#da9776",
+            "#dac476"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅉ",
+            "ㅏ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76daa1",
+            "#76b9da",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "너",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㄴ",
+            "ㅓ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#dac476",
+            "#767dda",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "무",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅁ",
+            "ㅜ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#b4da76",
+            "#da76be",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "웃",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅇ",
+            "ㅜ",
+            "ㅅ"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76da83",
+            "#da76be",
+            "#87da76"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "긴",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㄱ",
+            "ㅣ",
+            "ㄴ"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#daa676",
+            "#da9776",
+            "#dac476"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "데",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㄷ",
+            "ㅔ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#dad376",
+            "#7e76da",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      }
+    ],
+    "color_cells": [
+      {
+        "symbol": "ㅇ",
+        "source_text": "아",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅏ",
+        "source_text": "아",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76b9da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "아",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "니",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "니",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "니",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅋ",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "color": "#76dabf",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅋ",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "color": "#76dabf",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅋ",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "color": "#76dabf",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅋ",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "color": "#76dabf",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "group_gap",
+        "script": "jamo",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅇ",
+        "source_text": "이",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "이",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "이",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄱ",
+        "source_text": "거",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#daa676",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅓ",
+        "source_text": "거",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#767dda",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "거",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅈ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da92",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "진",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅉ",
+        "source_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76daa1",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅏ",
+        "source_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76b9da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "짜",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "너",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅓ",
+        "source_text": "너",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#767dda",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "너",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅁ",
+        "source_text": "무",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#b4da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅜ",
+        "source_text": "무",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da76be",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "무",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅇ",
+        "source_text": "웃",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅜ",
+        "source_text": "웃",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da76be",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅅ",
+        "source_text": "웃",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#87da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "웃",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄱ",
+        "source_text": "긴",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#daa676",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "긴",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "긴",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "긴",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄷ",
+        "source_text": "데",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dad376",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅔ",
+        "source_text": "데",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#7e76da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "color_spans": [
+      {
+        "symbol": "ㅇ",
+        "source_text": "아",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅏ",
+        "source_text": "아",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76b9da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "아",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "니",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "니",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "니",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅋ",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "color": "#76dabf",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅋ",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "color": "#76dabf",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅋ",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "color": "#76dabf",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅋ",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "laughter",
+        "script": "jamo",
+        "color": "#76dabf",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ㅋㅋㅋㅋ",
+        "kind": "group_gap",
+        "script": "jamo",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅇ",
+        "source_text": "이",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "이",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "이",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄱ",
+        "source_text": "거",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#daa676",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅓ",
+        "source_text": "거",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#767dda",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "거",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅈ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da92",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "진",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅉ",
+        "source_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76daa1",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅏ",
+        "source_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76b9da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "짜",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "너",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅓ",
+        "source_text": "너",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#767dda",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "너",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅁ",
+        "source_text": "무",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#b4da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅜ",
+        "source_text": "무",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da76be",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "무",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅇ",
+        "source_text": "웃",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅜ",
+        "source_text": "웃",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da76be",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅅ",
+        "source_text": "웃",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#87da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "웃",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄱ",
+        "source_text": "긴",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#daa676",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "긴",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "긴",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "긴",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄷ",
+        "source_text": "데",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dad376",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅔ",
+        "source_text": "데",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#7e76da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "metrics": {
+      "surface_token_count": 15,
+      "structural_token_count": 12,
+      "structural_group_count": 12,
+      "atomic_unit_count": 29,
+      "chat_cues_detected": 1,
+      "speech_markers_detected": 1,
+      "token_tax_delta": -3,
+      "token_tax_avoided": 3,
+      "token_count_delta": -3,
+      "structural_to_surface_ratio": 0.8
+    },
+    "id": "ko_laughter",
+    "title": "Korean laughter in ordinary chat",
+    "caption": "A common chat sentence where laughter is a structural signal, not just repeated visible characters.",
+    "svg": "artifacts/ko_laughter.svg"
+  },
+  {
+    "input": "와 진ㄴㄴㄴ짜 오래 걸렸다",
+    "surface_tokens": [
+      {
+        "text": "와",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "진",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "ㄴ",
+        "kind": "surface",
+        "script": "jamo"
+      },
+      {
+        "text": "ㄴ",
+        "kind": "surface",
+        "script": "jamo"
+      },
+      {
+        "text": "ㄴ",
+        "kind": "surface",
+        "script": "jamo"
+      },
+      {
+        "text": "짜",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "오",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "래",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "걸",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "렸",
+        "kind": "surface",
+        "script": "hangul"
+      },
+      {
+        "text": "다",
+        "kind": "surface",
+        "script": "hangul"
+      }
+    ],
+    "structural_tokens": [
+      {
+        "text": "와",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "와",
+        "count": null,
+        "units": [
+          "ㅇ",
+          "ㅘ"
+        ],
+        "features": {
+          "onset": "ㅇ",
+          "nucleus": "ㅘ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "진",
+        "count": null,
+        "units": [
+          "ㅈ",
+          "ㅣ",
+          "ㄴ"
+        ],
+        "features": {
+          "onset": "ㅈ",
+          "nucleus": "ㅣ",
+          "coda": "ㄴ",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "ㄴㄴㄴ",
+        "kind": "elongation",
+        "script": "jamo",
+        "normalized": "ㄴ",
+        "count": 3,
+        "units": [
+          "ㄴ",
+          "ㄴ",
+          "ㄴ"
+        ],
+        "features": {
+          "is_speech_like": true,
+          "is_elongated": true,
+          "jamo_emphasis": true
+        }
+      },
+      {
+        "text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "짜",
+        "count": null,
+        "units": [
+          "ㅉ",
+          "ㅏ"
+        ],
+        "features": {
+          "onset": "ㅉ",
+          "nucleus": "ㅏ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "오",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "오",
+        "count": null,
+        "units": [
+          "ㅇ",
+          "ㅗ"
+        ],
+        "features": {
+          "onset": "ㅇ",
+          "nucleus": "ㅗ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "래",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "래",
+        "count": null,
+        "units": [
+          "ㄹ",
+          "ㅐ"
+        ],
+        "features": {
+          "onset": "ㄹ",
+          "nucleus": "ㅐ",
+          "coda": "",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "걸",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "걸",
+        "count": null,
+        "units": [
+          "ㄱ",
+          "ㅓ",
+          "ㄹ"
+        ],
+        "features": {
+          "onset": "ㄱ",
+          "nucleus": "ㅓ",
+          "coda": "ㄹ",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "렸",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "렸",
+        "count": null,
+        "units": [
+          "ㄹ",
+          "ㅕ",
+          "ㅆ"
+        ],
+        "features": {
+          "onset": "ㄹ",
+          "nucleus": "ㅕ",
+          "coda": "ㅆ",
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "다",
+        "kind": "syllable",
+        "script": "hangul",
+        "normalized": "다",
+        "count": null,
+        "units": [
+          "ㄷ",
+          "ㅏ"
+        ],
+        "features": {
+          "onset": "ㄷ",
+          "nucleus": "ㅏ",
+          "coda": "",
+          "syllable_like": true
+        }
+      }
+    ],
+    "spatial_blocks": [
+      {
+        "token_text": "와",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅇ",
+            "ㅘ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76da83",
+            "#ba76da",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅈ",
+            "ㅣ",
+            "ㄴ"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76da92",
+            "#da9776",
+            "#dac476"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "ㄴㄴㄴ",
+        "kind": "elongation",
+        "script": "jamo",
+        "rows": [
+          [
+            "ㄴ",
+            "ㄴ",
+            "ㄴ"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#dac476",
+            "#dac476",
+            "#dac476"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#f17a3d"
+      },
+      {
+        "token_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅉ",
+            "ㅏ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76daa1",
+            "#76b9da",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "오",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㅇ",
+            "ㅗ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#76da83",
+            "#ab76da",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "래",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㄹ",
+            "ㅐ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#c3da76",
+            "#76aada",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "걸",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㄱ",
+            "ㅓ",
+            "ㄹ"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#daa676",
+            "#767dda",
+            "#c3da76"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "렸",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㄹ",
+            "ㅕ",
+            "ㅆ"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#c3da76",
+            "#8d76da",
+            "#78da76"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "다",
+        "kind": "syllable",
+        "script": "hangul",
+        "rows": [
+          [
+            "ㄷ",
+            "ㅏ",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#dad376",
+            "#76b9da",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      }
+    ],
+    "color_cells": [
+      {
+        "symbol": "ㅇ",
+        "source_text": "와",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅘ",
+        "source_text": "와",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#ba76da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "와",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅈ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da92",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "진",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "ㄴㄴㄴ",
+        "kind": "elongation",
+        "script": "jamo",
+        "color": "#dac476",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "ㄴㄴㄴ",
+        "kind": "elongation",
+        "script": "jamo",
+        "color": "#dac476",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "ㄴㄴㄴ",
+        "kind": "elongation",
+        "script": "jamo",
+        "color": "#dac476",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ㄴㄴㄴ",
+        "kind": "group_gap",
+        "script": "jamo",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅉ",
+        "source_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76daa1",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅏ",
+        "source_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76b9da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "짜",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅇ",
+        "source_text": "오",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅗ",
+        "source_text": "오",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#ab76da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "오",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄹ",
+        "source_text": "래",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#c3da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅐ",
+        "source_text": "래",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76aada",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "래",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄱ",
+        "source_text": "걸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#daa676",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅓ",
+        "source_text": "걸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#767dda",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄹ",
+        "source_text": "걸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#c3da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "걸",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄹ",
+        "source_text": "렸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#c3da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅕ",
+        "source_text": "렸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#8d76da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅆ",
+        "source_text": "렸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#78da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "렸",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄷ",
+        "source_text": "다",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dad376",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅏ",
+        "source_text": "다",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76b9da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "color_spans": [
+      {
+        "symbol": "ㅇ",
+        "source_text": "와",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅘ",
+        "source_text": "와",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#ba76da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "와",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅈ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da92",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅣ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#da9776",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "진",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dac476",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "진",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "ㄴㄴㄴ",
+        "kind": "elongation",
+        "script": "jamo",
+        "color": "#dac476",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "ㄴㄴㄴ",
+        "kind": "elongation",
+        "script": "jamo",
+        "color": "#dac476",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄴ",
+        "source_text": "ㄴㄴㄴ",
+        "kind": "elongation",
+        "script": "jamo",
+        "color": "#dac476",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ㄴㄴㄴ",
+        "kind": "group_gap",
+        "script": "jamo",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅉ",
+        "source_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76daa1",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅏ",
+        "source_text": "짜",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76b9da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "짜",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㅇ",
+        "source_text": "오",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76da83",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅗ",
+        "source_text": "오",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#ab76da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "오",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄹ",
+        "source_text": "래",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#c3da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅐ",
+        "source_text": "래",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76aada",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "래",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄱ",
+        "source_text": "걸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#daa676",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅓ",
+        "source_text": "걸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#767dda",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㄹ",
+        "source_text": "걸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#c3da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "걸",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄹ",
+        "source_text": "렸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#c3da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅕ",
+        "source_text": "렸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#8d76da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅆ",
+        "source_text": "렸",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#78da76",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "렸",
+        "kind": "group_gap",
+        "script": "hangul",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "ㄷ",
+        "source_text": "다",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#dad376",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "ㅏ",
+        "source_text": "다",
+        "kind": "syllable",
+        "script": "hangul",
+        "color": "#76b9da",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "metrics": {
+      "surface_token_count": 11,
+      "structural_token_count": 9,
+      "structural_group_count": 9,
+      "atomic_unit_count": 22,
+      "chat_cues_detected": 1,
+      "speech_markers_detected": 1,
+      "token_tax_delta": -2,
+      "token_tax_avoided": 2,
+      "token_count_delta": -2,
+      "structural_to_surface_ratio": 0.8182
+    },
+    "id": "ko_jamo_emphasis",
+    "title": "Korean syllable-local emphasis",
+    "caption": "The visual blocks decompose Hangul into jamo, so an inserted/repeated jamo stays visible instead of collapsing into an opaque syllable label.",
+    "svg": "artifacts/ko_jamo_emphasis.svg"
+  },
+  {
+    "input": "wait nooo that was actually so funny lol",
+    "surface_tokens": [
+      {
+        "text": "w",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "i",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "n",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "h",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "w",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "s",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "c",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "u",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "l",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "l",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "y",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "s",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "f",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "u",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "n",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "n",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "y",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "l",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "l",
+        "kind": "surface",
+        "script": "latin"
+      }
+    ],
+    "structural_tokens": [
+      {
+        "text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "wait",
+        "count": null,
+        "units": [
+          "w",
+          "a",
+          "i",
+          "t"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "normalized": "no",
+        "count": 3,
+        "units": [
+          "n",
+          "o",
+          "o",
+          "o"
+        ],
+        "features": {
+          "is_speech_like": true,
+          "is_elongated": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "that",
+        "count": null,
+        "units": [
+          "t",
+          "h",
+          "a",
+          "t"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "was",
+        "count": null,
+        "units": [
+          "w",
+          "a",
+          "s"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "ac",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "ac",
+        "count": null,
+        "units": [
+          "a",
+          "c"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "tu",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "tu",
+        "count": null,
+        "units": [
+          "t",
+          "u"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "al",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "al",
+        "count": null,
+        "units": [
+          "a",
+          "l"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "ly",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "ly",
+        "count": null,
+        "units": [
+          "l",
+          "y"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "so",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "so",
+        "count": null,
+        "units": [
+          "s",
+          "o"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "fun",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "fun",
+        "count": null,
+        "units": [
+          "f",
+          "u",
+          "n"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "ny",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "ny",
+        "count": null,
+        "units": [
+          "n",
+          "y"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "lol",
+        "kind": "laughter",
+        "script": "latin",
+        "normalized": "LOL",
+        "count": null,
+        "units": [
+          "l",
+          "o",
+          "l"
+        ],
+        "features": {
+          "is_speech_like": true,
+          "is_elongated": false
+        }
+      }
+    ],
+    "spatial_blocks": [
+      {
+        "token_text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "w",
+            "a",
+            "i"
+          ],
+          [
+            "t",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#e24fd7",
+            "#e24f4f",
+            "#66e24f"
+          ],
+          [
+            "#884fe2",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "rows": [
+          [
+            "n",
+            "o",
+            "o"
+          ],
+          [
+            "o",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#4fe2e2",
+            "#4fc0e2",
+            "#4fc0e2"
+          ],
+          [
+            "#4fc0e2",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#f17a3d"
+      },
+      {
+        "token_text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "t",
+            "h",
+            "a"
+          ],
+          [
+            "t",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#884fe2",
+            "#88e24f",
+            "#e24f4f"
+          ],
+          [
+            "#884fe2",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "w",
+            "a",
+            "s"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#e24fd7",
+            "#e24f4f",
+            "#664fe2"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "ac",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "a",
+            "c",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#e24f4f",
+            "#e2934f",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "tu",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "t",
+            "u",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#884fe2",
+            "#a94fe2",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "al",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "a",
+            "l",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#e24f4f",
+            "#4fe29e",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "ly",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "l",
+            "y",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#4fe29e",
+            "#e24f93",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "so",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "s",
+            "o",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#664fe2",
+            "#4fc0e2",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "fun",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "f",
+            "u",
+            "n"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#cbe24f",
+            "#a94fe2",
+            "#4fe2e2"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "ny",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "n",
+            "y",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#4fe2e2",
+            "#e24f93",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "lol",
+        "kind": "laughter",
+        "script": "latin",
+        "rows": [
+          [
+            "l",
+            "o",
+            "l"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#4fe29e",
+            "#4fc0e2",
+            "#4fe29e"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#2fbf71"
+      }
+    ],
+    "color_cells": [
+      {
+        "symbol": "w",
+        "source_text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "i",
+        "source_text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#66e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "t",
+        "source_text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "wait",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "n",
+        "source_text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "nooo",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "h",
+        "source_text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#88e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "t",
+        "source_text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "that",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "w",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "s",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "was",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "a",
+        "source_text": "ac",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "c",
+        "source_text": "ac",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2934f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ac",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "tu",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "u",
+        "source_text": "tu",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a94fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "tu",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "a",
+        "source_text": "al",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "l",
+        "source_text": "al",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "al",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "l",
+        "source_text": "ly",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "ly",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ly",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "s",
+        "source_text": "so",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "so",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "so",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "f",
+        "source_text": "fun",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#cbe24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "u",
+        "source_text": "fun",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a94fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "n",
+        "source_text": "fun",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "fun",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "n",
+        "source_text": "ny",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "ny",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ny",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "l",
+        "source_text": "lol",
+        "kind": "laughter",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "lol",
+        "kind": "laughter",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "l",
+        "source_text": "lol",
+        "kind": "laughter",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "color_spans": [
+      {
+        "symbol": "w",
+        "source_text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "i",
+        "source_text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#66e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "t",
+        "source_text": "wait",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "wait",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "n",
+        "source_text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "nooo",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "nooo",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "h",
+        "source_text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#88e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "t",
+        "source_text": "that",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "that",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "w",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "s",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "was",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "a",
+        "source_text": "ac",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "c",
+        "source_text": "ac",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2934f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ac",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "tu",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "u",
+        "source_text": "tu",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a94fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "tu",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "a",
+        "source_text": "al",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "l",
+        "source_text": "al",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "al",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "l",
+        "source_text": "ly",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "ly",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ly",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "s",
+        "source_text": "so",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "so",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "so",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "f",
+        "source_text": "fun",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#cbe24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "u",
+        "source_text": "fun",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a94fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "n",
+        "source_text": "fun",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "fun",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "n",
+        "source_text": "ny",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "ny",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ny",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "l",
+        "source_text": "lol",
+        "kind": "laughter",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "lol",
+        "kind": "laughter",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "l",
+        "source_text": "lol",
+        "kind": "laughter",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#2fbf71",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "metrics": {
+      "surface_token_count": 33,
+      "structural_token_count": 12,
+      "structural_group_count": 12,
+      "atomic_unit_count": 33,
+      "chat_cues_detected": 2,
+      "speech_markers_detected": 2,
+      "token_tax_delta": -21,
+      "token_tax_avoided": 21,
+      "token_count_delta": -21,
+      "structural_to_surface_ratio": 0.3636
+    },
+    "id": "en_reaction",
+    "title": "English reaction + elongation",
+    "caption": "Elongation and laughter remain visible as repeated color units inside larger spoken-like chunks.",
+    "svg": "artifacts/en_reaction.svg"
+  },
+  {
+    "input": "i was gonna reply but idk what to say",
+    "surface_tokens": [
+      {
+        "text": "i",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "w",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "s",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "g",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "n",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "n",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "r",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "e",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "p",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "l",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "y",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "b",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "u",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "i",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "d",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "k",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "w",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "h",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "s",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "y",
+        "kind": "surface",
+        "script": "latin"
+      }
+    ],
+    "structural_tokens": [
+      {
+        "text": "i",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "i",
+        "count": null,
+        "units": [
+          "i"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "was",
+        "count": null,
+        "units": [
+          "w",
+          "a",
+          "s"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "normalized": "GONNA",
+        "count": null,
+        "units": [
+          "g",
+          "o",
+          "n",
+          "n",
+          "a"
+        ],
+        "features": {
+          "is_speech_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "re",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "re",
+        "count": null,
+        "units": [
+          "r",
+          "e"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "ply",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "ply",
+        "count": null,
+        "units": [
+          "p",
+          "l",
+          "y"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "but",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "but",
+        "count": null,
+        "units": [
+          "b",
+          "u",
+          "t"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "idk",
+        "kind": "colloquial",
+        "script": "latin",
+        "normalized": "IDK",
+        "count": null,
+        "units": [
+          "i",
+          "d",
+          "k"
+        ],
+        "features": {
+          "is_speech_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "what",
+        "count": null,
+        "units": [
+          "w",
+          "h",
+          "a",
+          "t"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "to",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "to",
+        "count": null,
+        "units": [
+          "t",
+          "o"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "say",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "say",
+        "count": null,
+        "units": [
+          "s",
+          "a",
+          "y"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      }
+    ],
+    "spatial_blocks": [
+      {
+        "token_text": "i",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "i",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#66e24f",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "w",
+            "a",
+            "s"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#e24fd7",
+            "#e24f4f",
+            "#664fe2"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "rows": [
+          [
+            "g",
+            "o",
+            "n"
+          ],
+          [
+            "n",
+            "a",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#a9e24f",
+            "#4fc0e2",
+            "#4fe2e2"
+          ],
+          [
+            "#4fe2e2",
+            "#e24f4f",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#2bb8b0"
+      },
+      {
+        "token_text": "re",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "r",
+            "e",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#4f5ae2",
+            "#e2d74f",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "ply",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "p",
+            "l",
+            "y"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#4f9ee2",
+            "#4fe29e",
+            "#e24f93"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "but",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "b",
+            "u",
+            "t"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#e2714f",
+            "#a94fe2",
+            "#884fe2"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "idk",
+        "kind": "colloquial",
+        "script": "latin",
+        "rows": [
+          [
+            "i",
+            "d",
+            "k"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#66e24f",
+            "#e2b54f",
+            "#4fe27c"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#2bb8b0"
+      },
+      {
+        "token_text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "w",
+            "h",
+            "a"
+          ],
+          [
+            "t",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#e24fd7",
+            "#88e24f",
+            "#e24f4f"
+          ],
+          [
+            "#884fe2",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "to",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "t",
+            "o",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#884fe2",
+            "#4fc0e2",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "say",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "s",
+            "a",
+            "y"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#664fe2",
+            "#e24f4f",
+            "#e24f93"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      }
+    ],
+    "color_cells": [
+      {
+        "symbol": "i",
+        "source_text": "i",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#66e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "i",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "w",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "s",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "was",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "g",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#a9e24f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "n",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "n",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "gonna",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "r",
+        "source_text": "re",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4f5ae2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "e",
+        "source_text": "re",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2d74f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "re",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "p",
+        "source_text": "ply",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4f9ee2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "l",
+        "source_text": "ply",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "ply",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ply",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "b",
+        "source_text": "but",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2714f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "u",
+        "source_text": "but",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a94fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "t",
+        "source_text": "but",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "but",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "i",
+        "source_text": "idk",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#66e24f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "d",
+        "source_text": "idk",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#e2b54f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "k",
+        "source_text": "idk",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fe27c",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "idk",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "w",
+        "source_text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "h",
+        "source_text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#88e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "t",
+        "source_text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "what",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "to",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "to",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "to",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "s",
+        "source_text": "say",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "say",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "say",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "color_spans": [
+      {
+        "symbol": "i",
+        "source_text": "i",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#66e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "i",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "w",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "s",
+        "source_text": "was",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "was",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "g",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#a9e24f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "n",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "n",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "gonna",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "gonna",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "r",
+        "source_text": "re",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4f5ae2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "e",
+        "source_text": "re",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2d74f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "re",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "p",
+        "source_text": "ply",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4f9ee2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "l",
+        "source_text": "ply",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "ply",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "ply",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "b",
+        "source_text": "but",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2714f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "u",
+        "source_text": "but",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a94fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "t",
+        "source_text": "but",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "but",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "i",
+        "source_text": "idk",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#66e24f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "d",
+        "source_text": "idk",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#e2b54f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "k",
+        "source_text": "idk",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fe27c",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "idk",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "w",
+        "source_text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "h",
+        "source_text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#88e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "t",
+        "source_text": "what",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "what",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "to",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "to",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "to",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "s",
+        "source_text": "say",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "say",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "say",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "metrics": {
+      "surface_token_count": 29,
+      "structural_token_count": 10,
+      "structural_group_count": 10,
+      "atomic_unit_count": 29,
+      "chat_cues_detected": 2,
+      "speech_markers_detected": 2,
+      "token_tax_delta": -19,
+      "token_tax_avoided": 19,
+      "token_count_delta": -19,
+      "structural_to_surface_ratio": 0.3448
+    },
+    "id": "en_colloquial_reply",
+    "title": "English colloquial stance",
+    "caption": "Colloquial markers such as gonna and idk behave more like conversational signals than ordinary spelling errors.",
+    "svg": "artifacts/en_colloquial_reply.svg"
+  },
+  {
+    "input": "omg this took waaaay too long",
+    "surface_tokens": [
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "m",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "g",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "h",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "i",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "s",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "k",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "w",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "a",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "y",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space"
+      },
+      {
+        "text": "l",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "n",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "g",
+        "kind": "surface",
+        "script": "latin"
+      }
+    ],
+    "structural_tokens": [
+      {
+        "text": "omg",
+        "kind": "colloquial",
+        "script": "latin",
+        "normalized": "OMG",
+        "count": null,
+        "units": [
+          "o",
+          "m",
+          "g"
+        ],
+        "features": {
+          "is_speech_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "this",
+        "count": null,
+        "units": [
+          "t",
+          "h",
+          "i",
+          "s"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "took",
+        "count": null,
+        "units": [
+          "t",
+          "o",
+          "o",
+          "k"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "normalized": "way",
+        "count": 4,
+        "units": [
+          "w",
+          "a",
+          "a",
+          "a",
+          "a",
+          "y"
+        ],
+        "features": {
+          "is_speech_like": true,
+          "is_elongated": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "too",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "too",
+        "count": null,
+        "units": [
+          "t",
+          "o",
+          "o"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "normalized": null,
+        "count": null,
+        "units": [],
+        "features": {
+          "boundary": "word"
+        }
+      },
+      {
+        "text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "long",
+        "count": null,
+        "units": [
+          "l",
+          "o",
+          "n",
+          "g"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      }
+    ],
+    "spatial_blocks": [
+      {
+        "token_text": "omg",
+        "kind": "colloquial",
+        "script": "latin",
+        "rows": [
+          [
+            "o",
+            "m",
+            "g"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#4fc0e2",
+            "#4fe2c0",
+            "#a9e24f"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#2bb8b0"
+      },
+      {
+        "token_text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "t",
+            "h",
+            "i"
+          ],
+          [
+            "s",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#884fe2",
+            "#88e24f",
+            "#66e24f"
+          ],
+          [
+            "#664fe2",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "t",
+            "o",
+            "o"
+          ],
+          [
+            "k",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#884fe2",
+            "#4fc0e2",
+            "#4fc0e2"
+          ],
+          [
+            "#4fe27c",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "rows": [
+          [
+            "w",
+            "a",
+            "a"
+          ],
+          [
+            "a",
+            "a",
+            "y"
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#e24fd7",
+            "#e24f4f",
+            "#e24f4f"
+          ],
+          [
+            "#e24f4f",
+            "#e24f4f",
+            "#e24f93"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#f17a3d"
+      },
+      {
+        "token_text": "too",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "t",
+            "o",
+            "o"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#884fe2",
+            "#4fc0e2",
+            "#4fc0e2"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "l",
+            "o",
+            "n"
+          ],
+          [
+            "g",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#4fe29e",
+            "#4fc0e2",
+            "#4fe2e2"
+          ],
+          [
+            "#a9e24f",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      }
+    ],
+    "color_cells": [
+      {
+        "symbol": "o",
+        "source_text": "omg",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "m",
+        "source_text": "omg",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fe2c0",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "g",
+        "source_text": "omg",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#a9e24f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "omg",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "h",
+        "source_text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#88e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "i",
+        "source_text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#66e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "s",
+        "source_text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "this",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "k",
+        "source_text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe27c",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "took",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "w",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "waaaay",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "too",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "too",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "too",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "too",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "l",
+        "source_text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "n",
+        "source_text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "g",
+        "source_text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a9e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "color_spans": [
+      {
+        "symbol": "o",
+        "source_text": "omg",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "m",
+        "source_text": "omg",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#4fe2c0",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "g",
+        "source_text": "omg",
+        "kind": "colloquial",
+        "script": "latin",
+        "color": "#a9e24f",
+        "border_color": "#2bb8b0",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "omg",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "h",
+        "source_text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#88e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "i",
+        "source_text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#66e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "s",
+        "source_text": "this",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#664fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "this",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "k",
+        "source_text": "took",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe27c",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "took",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "w",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24fd7",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "a",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f4f",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "y",
+        "source_text": "waaaay",
+        "kind": "elongation",
+        "script": "latin",
+        "color": "#e24f93",
+        "border_color": "#f17a3d",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "waaaay",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "too",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "too",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "too",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "too",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": " ",
+        "source_text": " ",
+        "kind": "boundary",
+        "script": "space",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 18,
+        "is_gap": true
+      },
+      {
+        "symbol": "l",
+        "source_text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe29e",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "n",
+        "source_text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe2e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "g",
+        "source_text": "long",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a9e24f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "metrics": {
+      "surface_token_count": 24,
+      "structural_token_count": 6,
+      "structural_group_count": 6,
+      "atomic_unit_count": 24,
+      "chat_cues_detected": 2,
+      "speech_markers_detected": 2,
+      "token_tax_delta": -18,
+      "token_tax_avoided": 18,
+      "token_count_delta": -18,
+      "structural_to_surface_ratio": 0.25
+    },
+    "id": "en_duration_emphasis",
+    "title": "English duration emphasis",
+    "caption": "The repeated letters in waaaay become repeated color cells rather than a generic elongation-colored block.",
+    "svg": "artifacts/en_duration_emphasis.svg"
+  },
+  {
+    "input": "computer",
+    "surface_tokens": [
+      {
+        "text": "c",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "o",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "m",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "p",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "u",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "t",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "e",
+        "kind": "surface",
+        "script": "latin"
+      },
+      {
+        "text": "r",
+        "kind": "surface",
+        "script": "latin"
+      }
+    ],
+    "structural_tokens": [
+      {
+        "text": "com",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "com",
+        "count": null,
+        "units": [
+          "c",
+          "o",
+          "m"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "pu",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "pu",
+        "count": null,
+        "units": [
+          "p",
+          "u"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      },
+      {
+        "text": "ter",
+        "kind": "syllable",
+        "script": "latin",
+        "normalized": "ter",
+        "count": null,
+        "units": [
+          "t",
+          "e",
+          "r"
+        ],
+        "features": {
+          "syllable_like": true
+        }
+      }
+    ],
+    "spatial_blocks": [
+      {
+        "token_text": "com",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "c",
+            "o",
+            "m"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#e2934f",
+            "#4fc0e2",
+            "#4fe2c0"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "pu",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "p",
+            "u",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#4f9ee2",
+            "#a94fe2",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      },
+      {
+        "token_text": "ter",
+        "kind": "syllable",
+        "script": "latin",
+        "rows": [
+          [
+            "t",
+            "e",
+            "r"
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ],
+        "colors": [
+          [
+            "#884fe2",
+            "#e2d74f",
+            "#4f5ae2"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+          ]
+        ],
+        "border_color": "#b8a35a"
+      }
+    ],
+    "color_cells": [
+      {
+        "symbol": "c",
+        "source_text": "com",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2934f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "com",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "m",
+        "source_text": "com",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe2c0",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "com",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "p",
+        "source_text": "pu",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4f9ee2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "u",
+        "source_text": "pu",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a94fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "pu",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "ter",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "e",
+        "source_text": "ter",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2d74f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "r",
+        "source_text": "ter",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4f5ae2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "color_spans": [
+      {
+        "symbol": "c",
+        "source_text": "com",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2934f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "o",
+        "source_text": "com",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fc0e2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "m",
+        "source_text": "com",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4fe2c0",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "com",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "p",
+        "source_text": "pu",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4f9ee2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "u",
+        "source_text": "pu",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#a94fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "",
+        "source_text": "pu",
+        "kind": "group_gap",
+        "script": "latin",
+        "color": "#fbfaf7",
+        "border_color": "#fbfaf7",
+        "width": 5,
+        "is_gap": true
+      },
+      {
+        "symbol": "t",
+        "source_text": "ter",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#884fe2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "e",
+        "source_text": "ter",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#e2d74f",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      },
+      {
+        "symbol": "r",
+        "source_text": "ter",
+        "kind": "syllable",
+        "script": "latin",
+        "color": "#4f5ae2",
+        "border_color": "#b8a35a",
+        "width": 18,
+        "is_gap": false
+      }
+    ],
+    "metrics": {
+      "surface_token_count": 8,
+      "structural_token_count": 3,
+      "structural_group_count": 3,
+      "atomic_unit_count": 8,
+      "chat_cues_detected": 0,
+      "speech_markers_detected": 0,
+      "token_tax_delta": -5,
+      "token_tax_avoided": 5,
+      "token_count_delta": -5,
+      "structural_to_surface_ratio": 0.375
+    },
+    "id": "spatial_computer",
+    "title": "Spatial syllable-like grouping",
+    "caption": "A linear alphabetic word is rendered as syllable-like blocks to demonstrate the spatial-tokenization interface.",
+    "svg": "artifacts/spatial_computer.svg"
+  }
+]

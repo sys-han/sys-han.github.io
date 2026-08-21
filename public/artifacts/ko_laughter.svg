@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="960" viewBox="0 0 1240 960">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<style>text{font-family:Inter,Arial,sans-serif}.h{font-size:30px;font-weight:700;fill:#252525}.k{font-size:13px;font-weight:700;letter-spacing:3px;fill:#8a8882}.s{font-size:18px;fill:#595751}.tiny{font-size:12px;fill:#77746e}.unit{font-size:15px;fill:#252525;font-weight:600}.token{font-size:14px;fill:#2a2926}</style>
+<text x="40" y="42" class="k">TOKENS WITHOUT LETTERS · VISUAL PROTOTYPE</text>
+<text x="40" y="90" class="h">Korean laughter in ordinary chat</text>
+<text x="40" y="126" class="s">Input: 아니ㅋㅋㅋㅋ 이거 진짜 너무 웃긴데</text>
+<text x="40" y="188" class="k">01 · SURFACE / LINEAR BASELINE</text>
+<rect x="40" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="56.0" y="234" text-anchor="middle" class="token">아</text>
+<rect x="80" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="96.0" y="234" text-anchor="middle" class="token">니</text>
+<rect x="120" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="136.0" y="234" text-anchor="middle" class="token">ㅋ</text>
+<rect x="160" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="176.0" y="234" text-anchor="middle" class="token">ㅋ</text>
+<rect x="200" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="216.0" y="234" text-anchor="middle" class="token">ㅋ</text>
+<rect x="240" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="256.0" y="234" text-anchor="middle" class="token">ㅋ</text>
+<rect x="296" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="312.0" y="234" text-anchor="middle" class="token">이</text>
+<rect x="336" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="352.0" y="234" text-anchor="middle" class="token">거</text>
+<rect x="392" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="408.0" y="234" text-anchor="middle" class="token">진</text>
+<rect x="432" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="448.0" y="234" text-anchor="middle" class="token">짜</text>
+<rect x="488" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="504.0" y="234" text-anchor="middle" class="token">너</text>
+<rect x="528" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="544.0" y="234" text-anchor="middle" class="token">무</text>
+<rect x="584" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="600.0" y="234" text-anchor="middle" class="token">웃</text>
+<rect x="624" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="640.0" y="234" text-anchor="middle" class="token">긴</text>
+<rect x="664" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="680.0" y="234" text-anchor="middle" class="token">데</text>
+<text x="40" y="304" class="k">02 · SPATIAL BLOCK LAYOUT</text>
+<text x="40" y="326" class="tiny">Each block uses the same 3×3 canvas. English fills it with letters; Korean fills it with jamo, the alphabet-like pieces inside Hangul syllables.</text>
+<rect x="40" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="40" y="350" width="30" height="30" fill="#76da83" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="55.0" y="371" text-anchor="middle" class="unit">ㅇ</text>
+<rect x="70" y="350" width="30" height="30" fill="#76b9da" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="85.0" y="371" text-anchor="middle" class="unit">ㅏ</text>
+<rect x="100" y="350" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="40" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="70" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="100" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="40" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="70" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="100" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="40" y="456" class="tiny">아</text>
+<rect x="135" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="135" y="350" width="30" height="30" fill="#dac476" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="150.0" y="371" text-anchor="middle" class="unit">ㄴ</text>
+<rect x="165" y="350" width="30" height="30" fill="#da9776" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="180.0" y="371" text-anchor="middle" class="unit">ㅣ</text>
+<rect x="195" y="350" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="135" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="165" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="195" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="135" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="165" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="195" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="135" y="456" class="tiny">니</text>
+<rect x="230" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="230" y="350" width="30" height="30" fill="#76dabf" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="245.0" y="371" text-anchor="middle" class="unit">ㅋ</text>
+<rect x="260" y="350" width="30" height="30" fill="#76dabf" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="275.0" y="371" text-anchor="middle" class="unit">ㅋ</text>
+<rect x="290" y="350" width="30" height="30" fill="#76dabf" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="305.0" y="371" text-anchor="middle" class="unit">ㅋ</text>
+<rect x="230" y="380" width="30" height="30" fill="#76dabf" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="245.0" y="401" text-anchor="middle" class="unit">ㅋ</text>
+<rect x="260" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="290" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="230" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="260" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="290" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="230" y="443" width="90" height="5" rx="2" fill="#2fbf71"/>
+<text x="230" y="464" class="tiny">ㅋㅋㅋㅋ</text>
+<rect x="359" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="359" y="350" width="30" height="30" fill="#76da83" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="374.0" y="371" text-anchor="middle" class="unit">ㅇ</text>
+<rect x="389" y="350" width="30" height="30" fill="#da9776" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="404.0" y="371" text-anchor="middle" class="unit">ㅣ</text>
+<rect x="419" y="350" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="359" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="389" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="419" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="359" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="389" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="419" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="359" y="456" class="tiny">이</text>
+<rect x="454" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="454" y="350" width="30" height="30" fill="#daa676" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="469.0" y="371" text-anchor="middle" class="unit">ㄱ</text>
+<rect x="484" y="350" width="30" height="30" fill="#767dda" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="499.0" y="371" text-anchor="middle" class="unit">ㅓ</text>
+<rect x="514" y="350" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="454" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="484" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="514" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="454" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="484" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="514" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="454" y="456" class="tiny">거</text>
+<rect x="583" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="583" y="350" width="30" height="30" fill="#76da92" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="598.0" y="371" text-anchor="middle" class="unit">ㅈ</text>
+<rect x="613" y="350" width="30" height="30" fill="#da9776" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="628.0" y="371" text-anchor="middle" class="unit">ㅣ</text>
+<rect x="643" y="350" width="30" height="30" fill="#dac476" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="658.0" y="371" text-anchor="middle" class="unit">ㄴ</text>
+<rect x="583" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="613" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="643" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="583" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="613" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="643" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="583" y="456" class="tiny">진</text>
+<rect x="678" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="678" y="350" width="30" height="30" fill="#76daa1" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="693.0" y="371" text-anchor="middle" class="unit">ㅉ</text>
+<rect x="708" y="350" width="30" height="30" fill="#76b9da" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="723.0" y="371" text-anchor="middle" class="unit">ㅏ</text>
+<rect x="738" y="350" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="678" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="708" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="738" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="678" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="708" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="738" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="678" y="456" class="tiny">짜</text>
+<rect x="807" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="807" y="350" width="30" height="30" fill="#dac476" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="822.0" y="371" text-anchor="middle" class="unit">ㄴ</text>
+<rect x="837" y="350" width="30" height="30" fill="#767dda" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="852.0" y="371" text-anchor="middle" class="unit">ㅓ</text>
+<rect x="867" y="350" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="807" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="837" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="867" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="807" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="837" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="867" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="807" y="456" class="tiny">너</text>
+<rect x="902" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="902" y="350" width="30" height="30" fill="#b4da76" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="917.0" y="371" text-anchor="middle" class="unit">ㅁ</text>
+<rect x="932" y="350" width="30" height="30" fill="#da76be" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="947.0" y="371" text-anchor="middle" class="unit">ㅜ</text>
+<rect x="962" y="350" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="902" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="932" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="962" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="902" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="932" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="962" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="902" y="456" class="tiny">무</text>
+<rect x="1031" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="1031" y="350" width="30" height="30" fill="#76da83" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="1046.0" y="371" text-anchor="middle" class="unit">ㅇ</text>
+<rect x="1061" y="350" width="30" height="30" fill="#da76be" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="1076.0" y="371" text-anchor="middle" class="unit">ㅜ</text>
+<rect x="1091" y="350" width="30" height="30" fill="#87da76" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="1106.0" y="371" text-anchor="middle" class="unit">ㅅ</text>
+<rect x="1031" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="1061" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="1091" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="1031" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="1061" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="1091" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="1031" y="456" class="tiny">웃</text>
+<rect x="40" y="504" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="40" y="504" width="30" height="30" fill="#daa676" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="55.0" y="525" text-anchor="middle" class="unit">ㄱ</text>
+<rect x="70" y="504" width="30" height="30" fill="#da9776" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="85.0" y="525" text-anchor="middle" class="unit">ㅣ</text>
+<rect x="100" y="504" width="30" height="30" fill="#dac476" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="115.0" y="525" text-anchor="middle" class="unit">ㄴ</text>
+<rect x="40" y="534" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="70" y="534" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="100" y="534" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="40" y="564" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="70" y="564" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="100" y="564" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="40" y="610" class="tiny">긴</text>
+<rect x="135" y="504" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="135" y="504" width="30" height="30" fill="#dad376" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="150.0" y="525" text-anchor="middle" class="unit">ㄷ</text>
+<rect x="165" y="504" width="30" height="30" fill="#7e76da" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="180.0" y="525" text-anchor="middle" class="unit">ㅔ</text>
+<rect x="195" y="504" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="135" y="534" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="165" y="534" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="195" y="534" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="135" y="564" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="165" y="564" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="195" y="564" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="135" y="610" class="tiny">데</text>
+<text x="40" y="678" class="k">03 · LETTERFORM-REMOVED COLOR VIEW</text>
+<text x="40" y="700" class="tiny">Fill colors replace letterforms. Bottom bars mark chat cues built for colloquial written language: reaction, emphasis, and shorthand.</text>
+<rect x="40.0" y="722.0" width="18.0" height="32" rx="3" fill="#76da83"/>
+<rect x="60.0" y="722.0" width="18.0" height="32" rx="3" fill="#76b9da"/>
+<rect x="85.0" y="722.0" width="18.0" height="32" rx="3" fill="#dac476"/>
+<rect x="105.0" y="722.0" width="18.0" height="32" rx="3" fill="#da9776"/>
+<rect x="130.0" y="722.0" width="18.0" height="32" rx="3" fill="#76dabf"/>
+<rect x="130.0" y="749.0" width="18.0" height="5" rx="1" fill="#2fbf71"/>
+<rect x="150.0" y="722.0" width="18.0" height="32" rx="3" fill="#76dabf"/>
+<rect x="150.0" y="749.0" width="18.0" height="5" rx="1" fill="#2fbf71"/>
+<rect x="170.0" y="722.0" width="18.0" height="32" rx="3" fill="#76dabf"/>
+<rect x="170.0" y="749.0" width="18.0" height="5" rx="1" fill="#2fbf71"/>
+<rect x="190.0" y="722.0" width="18.0" height="32" rx="3" fill="#76dabf"/>
+<rect x="190.0" y="749.0" width="18.0" height="5" rx="1" fill="#2fbf71"/>
+<rect x="233.0" y="722.0" width="18.0" height="32" rx="3" fill="#76da83"/>
+<rect x="253.0" y="722.0" width="18.0" height="32" rx="3" fill="#da9776"/>
+<rect x="278.0" y="722.0" width="18.0" height="32" rx="3" fill="#daa676"/>
+<rect x="298.0" y="722.0" width="18.0" height="32" rx="3" fill="#767dda"/>
+<rect x="341.0" y="722.0" width="18.0" height="32" rx="3" fill="#76da92"/>
+<rect x="361.0" y="722.0" width="18.0" height="32" rx="3" fill="#da9776"/>
+<rect x="381.0" y="722.0" width="18.0" height="32" rx="3" fill="#dac476"/>
+<rect x="406.0" y="722.0" width="18.0" height="32" rx="3" fill="#76daa1"/>
+<rect x="426.0" y="722.0" width="18.0" height="32" rx="3" fill="#76b9da"/>
+<rect x="469.0" y="722.0" width="18.0" height="32" rx="3" fill="#dac476"/>
+<rect x="489.0" y="722.0" width="18.0" height="32" rx="3" fill="#767dda"/>
+<rect x="514.0" y="722.0" width="18.0" height="32" rx="3" fill="#b4da76"/>
+<rect x="534.0" y="722.0" width="18.0" height="32" rx="3" fill="#da76be"/>
+<rect x="577.0" y="722.0" width="18.0" height="32" rx="3" fill="#76da83"/>
+<rect x="597.0" y="722.0" width="18.0" height="32" rx="3" fill="#da76be"/>
+<rect x="617.0" y="722.0" width="18.0" height="32" rx="3" fill="#87da76"/>
+<rect x="642.0" y="722.0" width="18.0" height="32" rx="3" fill="#daa676"/>
+<rect x="662.0" y="722.0" width="18.0" height="32" rx="3" fill="#da9776"/>
+<rect x="682.0" y="722.0" width="18.0" height="32" rx="3" fill="#dac476"/>
+<rect x="707.0" y="722.0" width="18.0" height="32" rx="3" fill="#dad376"/>
+<rect x="727.0" y="722.0" width="18.0" height="32" rx="3" fill="#7e76da"/>
+<text x="40" y="796" class="k">04 · TOKEN TAX SKETCH</text>
+<text x="40" y="816" class="tiny">surface chunks = flat visible units; structure groups = 3×3 capacity-based blocks. token tax saved = surface − groups; Δ = groups − surface.</text>
+<rect x="40" y="844" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="58" y="872" class="tiny">surface chunks</text>
+<text x="58" y="902" class="h">15</text>
+<rect x="270" y="844" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="288" y="872" class="tiny">structure groups</text>
+<text x="288" y="902" class="h">12</text>
+<rect x="500" y="844" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="518" y="872" class="tiny">token tax saved</text>
+<text x="518" y="902" class="h">3 (Δ -3)</text>
+<rect x="730" y="844" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="748" y="872" class="tiny">chat cues</text>
+<text x="748" y="902" class="h">1</text>
+</svg>

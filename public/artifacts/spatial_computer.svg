@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="806" viewBox="0 0 1240 806">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<style>text{font-family:Inter,Arial,sans-serif}.h{font-size:30px;font-weight:700;fill:#252525}.k{font-size:13px;font-weight:700;letter-spacing:3px;fill:#8a8882}.s{font-size:18px;fill:#595751}.tiny{font-size:12px;fill:#77746e}.unit{font-size:15px;fill:#252525;font-weight:600}.token{font-size:14px;fill:#2a2926}</style>
+<text x="40" y="42" class="k">TOKENS WITHOUT LETTERS · VISUAL PROTOTYPE</text>
+<text x="40" y="90" class="h">Spatial syllable-like grouping</text>
+<text x="40" y="126" class="s">Input: computer</text>
+<text x="40" y="188" class="k">01 · SURFACE / LINEAR BASELINE</text>
+<rect x="40" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="56.0" y="234" text-anchor="middle" class="token">c</text>
+<rect x="80" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="96.0" y="234" text-anchor="middle" class="token">o</text>
+<rect x="120" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="136.0" y="234" text-anchor="middle" class="token">m</text>
+<rect x="160" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="176.0" y="234" text-anchor="middle" class="token">p</text>
+<rect x="200" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="216.0" y="234" text-anchor="middle" class="token">u</text>
+<rect x="240" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="256.0" y="234" text-anchor="middle" class="token">t</text>
+<rect x="280" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="296.0" y="234" text-anchor="middle" class="token">e</text>
+<rect x="320" y="212" width="32" height="34" rx="7" fill="#eeeeea" stroke="#d8d5ce"/>
+<text x="336.0" y="234" text-anchor="middle" class="token">r</text>
+<text x="40" y="304" class="k">02 · SPATIAL BLOCK LAYOUT</text>
+<text x="40" y="326" class="tiny">Each block uses the same 3×3 canvas. English fills it with letters; Korean fills it with jamo, the alphabet-like pieces inside Hangul syllables.</text>
+<rect x="40" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="40" y="350" width="30" height="30" fill="#e2934f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="55.0" y="371" text-anchor="middle" class="unit">c</text>
+<rect x="70" y="350" width="30" height="30" fill="#4fc0e2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="85.0" y="371" text-anchor="middle" class="unit">o</text>
+<rect x="100" y="350" width="30" height="30" fill="#4fe2c0" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="115.0" y="371" text-anchor="middle" class="unit">m</text>
+<rect x="40" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="70" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="100" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="40" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="70" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="100" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="40" y="456" class="tiny">com</text>
+<rect x="135" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="135" y="350" width="30" height="30" fill="#4f9ee2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="150.0" y="371" text-anchor="middle" class="unit">p</text>
+<rect x="165" y="350" width="30" height="30" fill="#a94fe2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="180.0" y="371" text-anchor="middle" class="unit">u</text>
+<rect x="195" y="350" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="135" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="165" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="195" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="135" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="165" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="195" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="135" y="456" class="tiny">pu</text>
+<rect x="230" y="350" width="90" height="90" rx="5" fill="#ffffff" stroke="#d8d5ce" stroke-width="1.2"/>
+<rect x="230" y="350" width="30" height="30" fill="#884fe2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="245.0" y="371" text-anchor="middle" class="unit">t</text>
+<rect x="260" y="350" width="30" height="30" fill="#e2d74f" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="275.0" y="371" text-anchor="middle" class="unit">e</text>
+<rect x="290" y="350" width="30" height="30" fill="#4f5ae2" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="305.0" y="371" text-anchor="middle" class="unit">r</text>
+<rect x="230" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="260" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="290" y="380" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="230" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="260" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<rect x="290" y="410" width="30" height="30" fill="#ffffff" fill-opacity="0.82" stroke="#fbfaf7"/>
+<text x="230" y="456" class="tiny">ter</text>
+<text x="40" y="524" class="k">03 · LETTERFORM-REMOVED COLOR VIEW</text>
+<text x="40" y="546" class="tiny">Fill colors replace letterforms. Bottom bars mark chat cues built for colloquial written language: reaction, emphasis, and shorthand.</text>
+<rect x="40.0" y="568.0" width="18.0" height="32" rx="3" fill="#e2934f"/>
+<rect x="60.0" y="568.0" width="18.0" height="32" rx="3" fill="#4fc0e2"/>
+<rect x="80.0" y="568.0" width="18.0" height="32" rx="3" fill="#4fe2c0"/>
+<rect x="105.0" y="568.0" width="18.0" height="32" rx="3" fill="#4f9ee2"/>
+<rect x="125.0" y="568.0" width="18.0" height="32" rx="3" fill="#a94fe2"/>
+<rect x="150.0" y="568.0" width="18.0" height="32" rx="3" fill="#884fe2"/>
+<rect x="170.0" y="568.0" width="18.0" height="32" rx="3" fill="#e2d74f"/>
+<rect x="190.0" y="568.0" width="18.0" height="32" rx="3" fill="#4f5ae2"/>
+<text x="40" y="642" class="k">04 · TOKEN TAX SKETCH</text>
+<text x="40" y="662" class="tiny">surface chunks = flat visible units; structure groups = 3×3 capacity-based blocks. token tax saved = surface − groups; Δ = groups − surface.</text>
+<rect x="40" y="690" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="58" y="718" class="tiny">surface chunks</text>
+<text x="58" y="748" class="h">8</text>
+<rect x="270" y="690" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="288" y="718" class="tiny">structure groups</text>
+<text x="288" y="748" class="h">3</text>
+<rect x="500" y="690" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="518" y="718" class="tiny">token tax saved</text>
+<text x="518" y="748" class="h">5 (Δ -5)</text>
+<rect x="730" y="690" width="210" height="76" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="748" y="718" class="tiny">chat cues</text>
+<text x="748" y="748" class="h">0</text>
+</svg>

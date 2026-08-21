@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1362" height="1134" viewBox="0 0 1362 1134">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<style>text{font-family:Inter,Arial,sans-serif}.h{font-size:30px;font-weight:700;fill:#252525}.k{font-size:13px;font-weight:700;letter-spacing:3px;fill:#8a8882}.s{font-size:18px;fill:#595751}.tiny{font-size:12px;fill:#77746e}.unit{font-size:15px;fill:#252525;font-weight:600}.token{font-size:14px;fill:#2a2926}</style>
+<text x="40" y="48" class="k">UNSUPERVISED STRUCTURAL SIMILARITY</text>
+<text x="40" y="92" class="h">Unsupervised Latin-family similarity sketch</text>
+<text x="40" y="124" class="s">No family labels are used to compute the score; labels are shown afterward as a sanity check.</text>
+<text x="40" y="152" class="tiny">Score = 0.45 transition + 0.25 unit distribution + 0.20 rhythm + 0.10 block density.</text>
+<text x="40" y="172" class="tiny">Family labels are not input features. They are displayed only after scoring to ask whether the apparatus recovers any</text>
+<text x="40" y="190" class="tiny">expected structure.</text>
+<text x="314" y="278.0" text-anchor="end" class="tiny">English</text>
+<text x="373.0" y="214" text-anchor="middle" class="tiny">English</text>
+<text x="314" y="364.0" text-anchor="end" class="tiny">German</text>
+<text x="459.0" y="214" text-anchor="middle" class="tiny">German</text>
+<text x="314" y="450.0" text-anchor="end" class="tiny">Dutch</text>
+<text x="545.0" y="214" text-anchor="middle" class="tiny">Dutch</text>
+<text x="314" y="536.0" text-anchor="end" class="tiny">Spanish</text>
+<text x="631.0" y="214" text-anchor="middle" class="tiny">Spanish</text>
+<text x="314" y="622.0" text-anchor="end" class="tiny">French</text>
+<text x="717.0" y="214" text-anchor="middle" class="tiny">French</text>
+<text x="314" y="708.0" text-anchor="end" class="tiny">Italian</text>
+<text x="803.0" y="214" text-anchor="middle" class="tiny">Italian</text>
+<text x="314" y="794.0" text-anchor="end" class="tiny">Latin</text>
+<text x="889.0" y="214" text-anchor="middle" class="tiny">Latin</text>
+<rect x="330" y="230" width="86" height="86" rx="10" fill="rgb(52,184,176)" stroke="#56524a" stroke-width="1.4"/>
+<text x="373.0" y="279.0" text-anchor="middle" class="unit">1.00</text>
+<rect x="416" y="230" width="86" height="86" rx="10" fill="rgb(95,196,187)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="459.0" y="279.0" text-anchor="middle" class="unit">0.78</text>
+<rect x="502" y="230" width="86" height="86" rx="10" fill="rgb(95,196,187)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="545.0" y="279.0" text-anchor="middle" class="unit">0.78</text>
+<rect x="588" y="230" width="86" height="86" rx="10" fill="rgb(150,212,202)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="631.0" y="279.0" text-anchor="middle" class="unit">0.49</text>
+<rect x="674" y="230" width="86" height="86" rx="10" fill="rgb(141,210,200)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="717.0" y="279.0" text-anchor="middle" class="unit">0.54</text>
+<rect x="760" y="230" width="86" height="86" rx="10" fill="rgb(143,210,200)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="803.0" y="279.0" text-anchor="middle" class="unit">0.53</text>
+<rect x="846" y="230" width="86" height="86" rx="10" fill="rgb(147,212,202)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="889.0" y="279.0" text-anchor="middle" class="unit">0.51</text>
+<rect x="330" y="316" width="86" height="86" rx="10" fill="rgb(95,196,187)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="373.0" y="365.0" text-anchor="middle" class="unit">0.78</text>
+<rect x="416" y="316" width="86" height="86" rx="10" fill="rgb(52,184,176)" stroke="#56524a" stroke-width="1.4"/>
+<text x="459.0" y="365.0" text-anchor="middle" class="unit">1.00</text>
+<rect x="502" y="316" width="86" height="86" rx="10" fill="rgb(97,197,188)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="545.0" y="365.0" text-anchor="middle" class="unit">0.77</text>
+<rect x="588" y="316" width="86" height="86" rx="10" fill="rgb(150,212,202)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="631.0" y="365.0" text-anchor="middle" class="unit">0.49</text>
+<rect x="674" y="316" width="86" height="86" rx="10" fill="rgb(134,208,198)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="717.0" y="365.0" text-anchor="middle" class="unit">0.58</text>
+<rect x="760" y="316" width="86" height="86" rx="10" fill="rgb(151,213,203)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="803.0" y="365.0" text-anchor="middle" class="unit">0.49</text>
+<rect x="846" y="316" width="86" height="86" rx="10" fill="rgb(141,210,200)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="889.0" y="365.0" text-anchor="middle" class="unit">0.54</text>
+<rect x="330" y="402" width="86" height="86" rx="10" fill="rgb(95,196,187)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="373.0" y="451.0" text-anchor="middle" class="unit">0.78</text>
+<rect x="416" y="402" width="86" height="86" rx="10" fill="rgb(97,197,188)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="459.0" y="451.0" text-anchor="middle" class="unit">0.77</text>
+<rect x="502" y="402" width="86" height="86" rx="10" fill="rgb(52,184,176)" stroke="#56524a" stroke-width="1.4"/>
+<text x="545.0" y="451.0" text-anchor="middle" class="unit">1.00</text>
+<rect x="588" y="402" width="86" height="86" rx="10" fill="rgb(138,209,199)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="631.0" y="451.0" text-anchor="middle" class="unit">0.55</text>
+<rect x="674" y="402" width="86" height="86" rx="10" fill="rgb(119,203,194)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="717.0" y="451.0" text-anchor="middle" class="unit">0.65</text>
+<rect x="760" y="402" width="86" height="86" rx="10" fill="rgb(142,210,200)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="803.0" y="451.0" text-anchor="middle" class="unit">0.53</text>
+<rect x="846" y="402" width="86" height="86" rx="10" fill="rgb(135,208,198)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="889.0" y="451.0" text-anchor="middle" class="unit">0.57</text>
+<rect x="330" y="488" width="86" height="86" rx="10" fill="rgb(150,212,202)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="373.0" y="537.0" text-anchor="middle" class="unit">0.49</text>
+<rect x="416" y="488" width="86" height="86" rx="10" fill="rgb(150,212,202)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="459.0" y="537.0" text-anchor="middle" class="unit">0.49</text>
+<rect x="502" y="488" width="86" height="86" rx="10" fill="rgb(138,209,199)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="545.0" y="537.0" text-anchor="middle" class="unit">0.55</text>
+<rect x="588" y="488" width="86" height="86" rx="10" fill="rgb(52,184,176)" stroke="#56524a" stroke-width="1.4"/>
+<text x="631.0" y="537.0" text-anchor="middle" class="unit">1.00</text>
+<rect x="674" y="488" width="86" height="86" rx="10" fill="rgb(100,198,189)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="717.0" y="537.0" text-anchor="middle" class="unit">0.75</text>
+<rect x="760" y="488" width="86" height="86" rx="10" fill="rgb(75,191,182)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="803.0" y="537.0" text-anchor="middle" class="unit">0.88</text>
+<rect x="846" y="488" width="86" height="86" rx="10" fill="rgb(120,204,194)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="889.0" y="537.0" text-anchor="middle" class="unit">0.65</text>
+<rect x="330" y="574" width="86" height="86" rx="10" fill="rgb(141,210,200)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="373.0" y="623.0" text-anchor="middle" class="unit">0.54</text>
+<rect x="416" y="574" width="86" height="86" rx="10" fill="rgb(134,208,198)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="459.0" y="623.0" text-anchor="middle" class="unit">0.58</text>
+<rect x="502" y="574" width="86" height="86" rx="10" fill="rgb(119,203,194)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="545.0" y="623.0" text-anchor="middle" class="unit">0.65</text>
+<rect x="588" y="574" width="86" height="86" rx="10" fill="rgb(100,198,189)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="631.0" y="623.0" text-anchor="middle" class="unit">0.75</text>
+<rect x="674" y="574" width="86" height="86" rx="10" fill="rgb(52,184,176)" stroke="#56524a" stroke-width="1.4"/>
+<text x="717.0" y="623.0" text-anchor="middle" class="unit">1.00</text>
+<rect x="760" y="574" width="86" height="86" rx="10" fill="rgb(106,200,191)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="803.0" y="623.0" text-anchor="middle" class="unit">0.72</text>
+<rect x="846" y="574" width="86" height="86" rx="10" fill="rgb(118,203,194)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="889.0" y="623.0" text-anchor="middle" class="unit">0.66</text>
+<rect x="330" y="660" width="86" height="86" rx="10" fill="rgb(143,210,200)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="373.0" y="709.0" text-anchor="middle" class="unit">0.53</text>
+<rect x="416" y="660" width="86" height="86" rx="10" fill="rgb(151,213,203)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="459.0" y="709.0" text-anchor="middle" class="unit">0.49</text>
+<rect x="502" y="660" width="86" height="86" rx="10" fill="rgb(142,210,200)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="545.0" y="709.0" text-anchor="middle" class="unit">0.53</text>
+<rect x="588" y="660" width="86" height="86" rx="10" fill="rgb(75,191,182)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="631.0" y="709.0" text-anchor="middle" class="unit">0.88</text>
+<rect x="674" y="660" width="86" height="86" rx="10" fill="rgb(106,200,191)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="717.0" y="709.0" text-anchor="middle" class="unit">0.72</text>
+<rect x="760" y="660" width="86" height="86" rx="10" fill="rgb(52,184,176)" stroke="#56524a" stroke-width="1.4"/>
+<text x="803.0" y="709.0" text-anchor="middle" class="unit">1.00</text>
+<rect x="846" y="660" width="86" height="86" rx="10" fill="rgb(115,202,193)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="889.0" y="709.0" text-anchor="middle" class="unit">0.67</text>
+<rect x="330" y="746" width="86" height="86" rx="10" fill="rgb(147,212,202)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="373.0" y="795.0" text-anchor="middle" class="unit">0.51</text>
+<rect x="416" y="746" width="86" height="86" rx="10" fill="rgb(141,210,200)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="459.0" y="795.0" text-anchor="middle" class="unit">0.54</text>
+<rect x="502" y="746" width="86" height="86" rx="10" fill="rgb(135,208,198)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="545.0" y="795.0" text-anchor="middle" class="unit">0.57</text>
+<rect x="588" y="746" width="86" height="86" rx="10" fill="rgb(120,204,194)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="631.0" y="795.0" text-anchor="middle" class="unit">0.65</text>
+<rect x="674" y="746" width="86" height="86" rx="10" fill="rgb(118,203,194)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="717.0" y="795.0" text-anchor="middle" class="unit">0.66</text>
+<rect x="760" y="746" width="86" height="86" rx="10" fill="rgb(115,202,193)" stroke="#fbfaf7" stroke-width="1.4"/>
+<text x="803.0" y="795.0" text-anchor="middle" class="unit">0.67</text>
+<rect x="846" y="746" width="86" height="86" rx="10" fill="rgb(52,184,176)" stroke="#56524a" stroke-width="1.4"/>
+<text x="889.0" y="795.0" text-anchor="middle" class="unit">1.00</text>
+<text x="40" y="886" class="k">LABELS USED ONLY FOR INTERPRETATION</text>
+<text x="40" y="912" class="tiny">English · Germanic/mixed</text>
+<text x="40" y="930" class="tiny">German · Germanic</text>
+<text x="40" y="948" class="tiny">Dutch · Germanic</text>
+<text x="40" y="966" class="tiny">Spanish · Romance</text>
+<text x="40" y="984" class="tiny">French · Romance</text>
+<text x="40" y="1002" class="tiny">Italian · Romance</text>
+<text x="40" y="1020" class="tiny">Latin · Classical sketch</text>
+<text x="1002" y="230" class="k">TOP NON-IDENTICAL PAIRS</text>
+<rect x="1002" y="242" width="330" height="62" rx="12" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="1018" y="262" class="tiny">Spanish ↔ Italian</text>
+<text x="1250" y="262" class="unit">0.88</text>
+<text x="1018" y="284" class="tiny">trans 0.77 · unit 0.95 · rhythm 0.98 · density 0.98</text>
+<rect x="1002" y="318" width="330" height="62" rx="12" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="1018" y="338" class="tiny">English ↔ Dutch</text>
+<text x="1250" y="338" class="unit">0.78</text>
+<text x="1018" y="360" class="tiny">trans 0.58 · unit 0.95 · rhythm 1.00 · density 0.77</text>
+<rect x="1002" y="394" width="330" height="62" rx="12" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="1018" y="414" class="tiny">English ↔ German</text>
+<text x="1250" y="414" class="unit">0.78</text>
+<text x="1018" y="436" class="tiny">trans 0.55 · unit 0.93 · rhythm 1.00 · density 0.99</text>
+<rect x="1002" y="470" width="330" height="62" rx="12" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="1018" y="490" class="tiny">German ↔ Dutch</text>
+<text x="1250" y="490" class="unit">0.77</text>
+<text x="1018" y="512" class="tiny">trans 0.57 · unit 0.96 · rhythm 1.00 · density 0.67</text>
+<rect x="1002" y="546" width="330" height="62" rx="12" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="1018" y="566" class="tiny">Spanish ↔ French</text>
+<text x="1250" y="566" class="unit">0.75</text>
+<text x="1018" y="588" class="tiny">trans 0.49 · unit 0.94 · rhythm 0.99 · density 0.94</text>
+<rect x="1002" y="622" width="330" height="62" rx="12" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="1018" y="642" class="tiny">French ↔ Italian</text>
+<text x="1250" y="642" class="unit">0.72</text>
+<text x="1018" y="664" class="tiny">trans 0.44 · unit 0.93 · rhythm 0.94 · density 0.97</text>
+<rect x="1002" y="698" width="330" height="62" rx="12" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="1018" y="718" class="tiny">Italian ↔ Latin</text>
+<text x="1250" y="718" class="unit">0.67</text>
+<text x="1018" y="740" class="tiny">trans 0.49 · unit 0.75 · rhythm 0.92 · density 0.78</text>
+<rect x="1002" y="774" width="330" height="62" rx="12" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="1018" y="794" class="tiny">French ↔ Latin</text>
+<text x="1250" y="794" class="unit">0.66</text>
+<text x="1018" y="816" class="tiny">trans 0.47 · unit 0.88 · rhythm 0.76 · density 0.75</text>
+<text x="40" y="1072" class="tiny">v0 note: this is a structural similarity sketch, not a genealogy classifier. It should be replaced or validated with larger</text>
+<text x="40" y="1090" class="tiny">corpora before making strong claims.</text>
+</svg>

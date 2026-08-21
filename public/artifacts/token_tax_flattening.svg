@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="790" viewBox="0 0 1240 790">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<style>text{font-family:Inter,Arial,sans-serif}.h{font-size:30px;font-weight:700;fill:#252525}.k{font-size:13px;font-weight:700;letter-spacing:3px;fill:#8a8882}.s{font-size:18px;fill:#595751}.tiny{font-size:12px;fill:#77746e}.unit{font-size:15px;fill:#252525;font-weight:600}.token{font-size:14px;fill:#2a2926}</style>
+<text x="40" y="48" class="k">TOKEN TAX FLATTENING SKETCH</text>
+<text x="40" y="92" class="h">Token tax flattening sketch</text>
+<text x="40" y="122" class="s">Demo baseline tokenizer units versus Token Vision 3×3 groups. The important number is</text>
+<text x="40" y="146" class="s">whether the cross-language gap shrinks.</text>
+<text x="40" y="172" class="tiny">Read this as a before/after sketch: baseline units approximate surface-tokenizer cost; Token Vision groups</text>
+<text x="40" y="190" class="tiny">show the proposed structural cost. The key question is whether the cross-language gap shrinks.</text>
+<rect x="40" y="234" width="250" height="70" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="58" y="260" class="tiny">baseline gap</text>
+<text x="58" y="290" class="h">+18 units</text>
+<rect x="315" y="234" width="250" height="70" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="333" y="260" class="tiny">Token Vision gap</text>
+<text x="333" y="290" class="h">+4 groups</text>
+<rect x="590" y="234" width="250" height="70" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="608" y="260" class="tiny">gap reduced</text>
+<text x="608" y="290" class="h">14 units</text>
+<rect x="865" y="234" width="250" height="70" rx="14" fill="#ffffff" stroke="#e3dfd6"/>
+<text x="883" y="260" class="tiny">relative burden</text>
+<text x="883" y="290" class="h">3.25× → 1.44×</text>
+<text x="40" y="358" class="s">English · Latin baseline: I think this really took way too long</text>
+<text x="40" y="384" class="tiny">baseline tokenizer-like units</text>
+<rect x="40" y="392" width="520" height="28" rx="7" fill="#f1eee7" stroke="#e3dfd6"/>
+<rect x="40" y="392" width="160.0" height="28" rx="7" fill="#8f8a82"/>
+<text x="574" y="413" class="tiny">8</text>
+<text x="40" y="442" class="tiny">Token Vision 3×3 groups</text>
+<rect x="40" y="450" width="520" height="28" rx="7" fill="#f1eee7" stroke="#e3dfd6"/>
+<rect x="40" y="450" width="180.0" height="28" rx="7" fill="#2bb8b0"/>
+<text x="574" y="471" class="tiny">9</text>
+<text x="650" y="416" class="tiny">before = 8</text>
+<text x="650" y="474" class="tiny">after = 9</text>
+<text x="780" y="447" class="tiny">Compare before/after cost; lower gap after grouping is the goal.</text>
+<text x="40" y="528" class="s">Korean · Hangul stress case: 이거 진짜 너무 오래 걸린 것 같아</text>
+<text x="40" y="554" class="tiny">baseline tokenizer-like units</text>
+<rect x="40" y="562" width="520" height="28" rx="7" fill="#f1eee7" stroke="#e3dfd6"/>
+<rect x="40" y="562" width="520.0" height="28" rx="7" fill="#8f8a82"/>
+<text x="574" y="583" class="tiny">26</text>
+<text x="40" y="612" class="tiny">Token Vision 3×3 groups</text>
+<rect x="40" y="620" width="520" height="28" rx="7" fill="#f1eee7" stroke="#e3dfd6"/>
+<rect x="40" y="620" width="260.0" height="28" rx="7" fill="#2bb8b0"/>
+<text x="574" y="641" class="tiny">13</text>
+<text x="650" y="586" class="tiny">before = 26</text>
+<text x="650" y="644" class="tiny">after = 13</text>
+<text x="780" y="617" class="tiny">Compare before/after cost; lower gap after grouping is the goal.</text>
+<text x="40" y="736" class="tiny">v0 note: baseline counts are demo tokenizer-like units, not production BPE. The planned benchmark will replace them with real BPE/WordPiece/tiktoken counts.</text>
+</svg>
